@@ -43,9 +43,7 @@ with:
 
 $$
 j_1(x) = \frac{\sin x}{x^2} - \frac{\cos x}{x}
-$$
-
-$$
+\quad\quad\quad   \text{and}   \quad\quad\quad
 R_1 = \sqrt{R_N^2 - 5s^2}
 $$
 
@@ -58,9 +56,7 @@ v_{min} =
 \sqrt{
 \frac{E_R m_N}{2 \mu_N^2}
 }
-$$
-
-$$
+\quad\quad\quad   \text{with}   \quad\quad\quad
 \mu_N =
 \frac{m_\chi m_N}{m_\chi + m_N}
 $$
@@ -115,12 +111,10 @@ Numerically evaluated using the trapezoidal rule.
 $$
 R(t) =
 R_0 + R_{mod}
-\cos\left(
+\~\cos\left(
 \frac{2\pi}{365}(t - t_{max})
 \right)
-$$
-
-$$
+\quad\quad\quad   \text{with}   \quad\quad\quad
 R_{mod} = \frac{R_{max} - R_{min}}{2}
 $$
 
