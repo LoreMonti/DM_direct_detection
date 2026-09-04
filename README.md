@@ -2,6 +2,25 @@
 
 Simulation of the expected event rate in direct detection experiments for a 70 GeV WIMP, comparing Xenon and NaI targets within the Standard Halo Model (SHM).
 
+<p align="center">
+  <img src="docs/total_rate.png" alt="Total event rate, Xenon vs NaI" width="49%">
+  <img src="docs/helm_form_factor.png" alt="Helm nuclear form factor" width="49%">
+</p>
+
+<sub><b>Left:</b> total event rate above threshold for a 70 GeV WIMP, Xenon
+versus NaI. <b>Right:</b> the Helm nuclear form factor, which suppresses the
+rate at high momentum transfer and is the reason the two targets behave
+differently.</sub>
+
+<p align="center">
+  <img src="docs/earth_orbital_speed.png" alt="Earth orbital speed and annual modulation" width="60%">
+</p>
+
+<sub>Earth's speed through the galactic halo over the year — the origin of the
+annual modulation of the expected signal.</sub>
+
+---
+
 ## Overview
 
 This project provides a numerical simulation of WIMP-nucleus elastic scattering, including:
